@@ -1,0 +1,23 @@
+1)Input :
+amount_given=1000
+bill_amount=500
+
+Output :
+Value of the quotient is =2
+Value of the remainder is =0
+
+2)Input :
+amount_given=2000
+bill_amount=1450
+
+Output :
+Value of the quotient is =1
+Value of the remainder is =550
+
+3)Input :
+amount_given=1500
+bill_amount=790
+
+Output :
+Value of the quotient is =1
+Value of the remainder is =710
